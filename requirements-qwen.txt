@@ -1,0 +1,4 @@
+# Colab için ek paketler (Florence-2 script'leri için transformers==4.49.0 kalsın;
+# Qwen ayrı ortamda veya Colab'de çalıştırılabilir)
+qwen-vl-utils
+accelerate

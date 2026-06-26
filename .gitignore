@@ -1,0 +1,6 @@
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+results/evaluation_hybrid.csv
+results/evaluation_qwen.csv
